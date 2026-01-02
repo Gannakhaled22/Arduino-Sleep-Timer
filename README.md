@@ -1,5 +1,5 @@
 # Arduino-Sleep-Timer
-# Arduino-Sleep-Timer
+
 
 A small Arduino project that puts the board into low-power sleep mode after a configurable timeout and wakes on button press (or other interrupt). Useful for battery-powered projects where you want to conserve power when the device is idle.
 
